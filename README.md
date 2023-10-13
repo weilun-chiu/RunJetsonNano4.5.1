@@ -21,4 +21,7 @@ git clone https://github.com/weilun-chiu/RunJetsonNano4.5.1
 ```
 Run test
 ```
+python3 check_version.py
+python3 linear_example.py
+python3 simpleCNN.py
 ```

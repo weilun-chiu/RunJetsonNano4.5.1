@@ -25,7 +25,7 @@ python3 check_version.py
 python3 linear_example.py
 python3 simpleCNN.py
 ```
-Use the following wheel to get scipy
+Use the following wheel to get scipy (from https://github.com/jetson-nano-wheels/python3.6-scipy-1.5.4)
 ```
 pip3 install 'https://github.com/jetson-nano-wheels/python3.6-scipy-1.5.4/releases/download/v0.0.1/scipy-1.5.4-cp36-cp36m-linux_aarch64.whl'
 ```

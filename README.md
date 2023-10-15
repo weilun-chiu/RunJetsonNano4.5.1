@@ -1,6 +1,13 @@
 # RunJetsonNano4.5.1
 A guide how to run simple linear layer and CNN on Jetson Nano with JetPack
 
+Follow [NV's guide](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#setup) to connect to your Jetson. In MacOS, it's
+```
+$ ls /dev/cu.usbmodem*
+/dev/cu.usbmodem14133200001053
+$ sudo screen /dev/cu.usbmodem14133200001053 115200
+```
+
 First, download the image from https://developer.nvidia.com/embedded/jetpack-sdk-451-archive
 - choose `JETSON NANO DEVELOPER KITS` - `For Jetson Nano Developer Kit`
 Follow https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write to instore the image

@@ -14,6 +14,7 @@ git clone https://github.com/eric0708/ODML_Lab2/tree/main
 ```
 3. Run the inference
 
+## Old Info
 
 Follow [NV's guide](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#setup) to connect to your Jetson. In MacOS, it's
 ```

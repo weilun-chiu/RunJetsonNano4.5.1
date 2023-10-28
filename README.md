@@ -1,7 +1,7 @@
 # RunJetsonNano4.5.1
 A guide how to run simple linear layer and CNN on Jetson Nano with JetPack
 
-##Update
+## Update
 1. Get the container from jetson-voice
 ```
 git clone --branch dev https://github.com/dusty-nv/jetson-voice

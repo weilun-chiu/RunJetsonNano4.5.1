@@ -1,6 +1,20 @@
 # RunJetsonNano4.5.1
 A guide how to run simple linear layer and CNN on Jetson Nano with JetPack
 
+##Update
+1. Get the container from jetson-voice
+```
+git clone --branch dev https://github.com/dusty-nv/jetson-voice
+cd jetson-voice
+docker/run.sh
+```
+2. Get the repo from Eric
+```
+git clone https://github.com/eric0708/ODML_Lab2/tree/main
+```
+3. Run the inference
+
+
 Follow [NV's guide](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#setup) to connect to your Jetson. In MacOS, it's
 ```
 $ ls /dev/cu.usbmodem*

@@ -10,7 +10,7 @@ docker/run.sh
 ```
 2. Get the repo from Eric
 ```
-git clone https://github.com/eric0708/ODML_Lab2/tree/main
+git clone https://github.com/eric0708/ODML_Lab2.git
 ```
 3. Run the inference
 

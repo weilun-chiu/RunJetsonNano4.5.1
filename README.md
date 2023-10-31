@@ -8,9 +8,9 @@ git clone --branch dev https://github.com/dusty-nv/jetson-voice
 cd jetson-voice
 docker/run.sh
 ```
-2. Get the repo from Eric
+2. Get the lab
 ```
-git clone https://github.com/eric0708/ODML_Lab2.git
+git clone https://github.com/weilun-chiu/CNN-ER.git
 ```
 3. Run the inference
 
